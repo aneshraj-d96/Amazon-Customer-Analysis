@@ -4,6 +4,11 @@ A comprehensive analytics solution designed to understand customer behavior, pur
 
 ---
 
+## 🚗 GitHub Project Repository  
+🔗 [Click to view Amazon-Customer-Analysis](https://github.com/aneshraj-d96/Amazon-Customer-Analysis)
+
+---
+
 ## 🧠 Project Overview
 
 Understanding customer behavior is key to driving retention, personalization, and profitability. This project analyzes **250,000+ customer transactions** to uncover purchasing trends, churn indicators, and demographic influences.
@@ -23,7 +28,7 @@ Understanding customer behavior is key to driving retention, personalization, an
 | `ecommerce_customer_data_large.csv`  | Raw dataset with customer transactions                                     |
 | `cleaned_ecommerce.csv`              | Preprocessed dataset with feature engineering                              |
 | `churn_model.pkl`                    | Trained model for churn prediction                                         |
-| `feature_names.pkl`                  | Feature list used in model training                                        |
+| `feature_names.pkl`                 | Feature list used in model training                                        |
 | `label_encoders.pkl`                 | Encoders for categorical variables                                         |
 | `ecommerce.sql`                      | SQL queries for data extraction and filtering                              |
 | `sqlconnect.py`                      | Python script for SQL database connection                                  |
@@ -64,15 +69,21 @@ Understanding customer behavior is key to driving retention, personalization, an
 
 ## 📊 Dashboard Overview
 
-Built using **Streamlit**, the dashboard includes:
+### 🔷 Power BI Dashboard  
+Explore interactive visuals on customer segmentation, churn risk, and purchasing behavior.  
+🔗 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjYwYjYxZTAtZGM5NS00ZTYxLTg4YjUtYjQ1YjYxYzYxYjYxIiwidCI6IjYyYjYxYjYxLTYyYjYtNDYyYi1iYjYxLTYyYjYxYjYxYjYxMiIsImMiOjF9)
 
-- 🛍️ Purchase behavior by category and payment method  
-- 🔄 Return rate and churn correlation  
-- 👥 Customer segmentation by age and gender  
-- 📈 Monthly purchase trends and churn forecasts  
-- 📊 Feature importance and model predictions  
+![Power BI Preview](https://image2url.com/images/1755858647825-bc49bf95-c001-4864-8fff-255ec607cd5a.png)
+![Power BI Preview](https://image2url.com/images/1755859155786-589a26a3-707e-44c8-905a-62495f20430f.png)
 
-> _Add your hosted dashboard screenshot or link here once available._
+---
+
+### 🟢 Streamlit App  
+Live dashboard with dynamic filters and churn prediction interface.  
+🔗 [Launch Streamlit App](https://amazon-customer-analysis.streamlit.app)
+
+![Streamlit Preview](https://image2url.com/images/1755859272930-a9cb3916-ff78-4a92-bca7-1d0150a67e14.png)
+![Streamlit Preview](https://image2url.com/images/1755859328015-d79870ad-4e0b-43fa-a927-f2e46d835125.png)
 
 ---
 
@@ -114,7 +125,5 @@ Built using **Streamlit**, the dashboard includes:
 
 ## 👤 Author
 
-**Anesh Raj**  
-Data Analyst | Data Scientist | Business Analyst  
-Focused on multi-industry impact through predictive modeling and dashboarding.  
-📍 Chennai, India
+**Anesh Raj**   
+🔗 [GitHub Profile](https://github.com/aneshraj-d96)
